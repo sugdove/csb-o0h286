@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sugdove.github.io/csb-o0h286/static/css/main.2b6e66ab.chunk.css",
+    "main.js": "https://sugdove.github.io/csb-o0h286/static/js/main.60a3c784.chunk.js",
+    "main.js.map": "https://sugdove.github.io/csb-o0h286/static/js/main.60a3c784.chunk.js.map",
+    "runtime-main.js": "https://sugdove.github.io/csb-o0h286/static/js/runtime-main.60a8fe65.js",
+    "runtime-main.js.map": "https://sugdove.github.io/csb-o0h286/static/js/runtime-main.60a8fe65.js.map",
+    "static/js/2.154adbbc.chunk.js": "https://sugdove.github.io/csb-o0h286/static/js/2.154adbbc.chunk.js",
+    "static/js/2.154adbbc.chunk.js.map": "https://sugdove.github.io/csb-o0h286/static/js/2.154adbbc.chunk.js.map",
+    "index.html": "https://sugdove.github.io/csb-o0h286/index.html",
+    "static/css/main.2b6e66ab.chunk.css.map": "https://sugdove.github.io/csb-o0h286/static/css/main.2b6e66ab.chunk.css.map",
+    "static/js/2.154adbbc.chunk.js.LICENSE.txt": "https://sugdove.github.io/csb-o0h286/static/js/2.154adbbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60a8fe65.js",
+    "static/js/2.154adbbc.chunk.js",
+    "static/css/main.2b6e66ab.chunk.css",
+    "static/js/main.60a3c784.chunk.js"
+  ]
+}
